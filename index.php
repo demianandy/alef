@@ -8,7 +8,7 @@
 </head>
 <body>
     
-<h1>Тестовые задания для Alef Developement</h1>
+<h1>Тестовые задания для компании Alef Developement</h1>
 
 <h3><a href="test1/test1.php">Задание 1</a></h3>
 <h3><a href="test2/test2.php">Задание 2</a></h3>
